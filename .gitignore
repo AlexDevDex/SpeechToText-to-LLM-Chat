@@ -1,0 +1,5 @@
+.env
+log.txt
+temp_chunk.wav
+async_transcriber.py
+mentalai.py

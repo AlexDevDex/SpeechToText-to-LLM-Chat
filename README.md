@@ -1,0 +1,1 @@
+This program records (your) audio input (from os default audio input) and sends it to a (local) whisper server. The transcribed text is then send to a (local) ollama server to, returning an answer. This all happens in Real Time.
