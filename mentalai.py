@@ -1,7 +1,6 @@
 import asyncio
 from ollama import AsyncClient
 import requests
-import pyaudio
 
 client = AsyncClient(host='http://192.168.1.42:11434')
 
