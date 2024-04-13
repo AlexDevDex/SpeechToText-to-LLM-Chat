@@ -88,9 +88,6 @@ async def chat(text):
         }
     ):
         print(part['message']['content'], end='', flush=True)
-
-async def process_transcription(text):
-    await chat(text)
     
 async def primary():
     p = pyaudio.PyAudio()
